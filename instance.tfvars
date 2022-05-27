@@ -1,0 +1,7 @@
+vpc = "vpc-0c51b4152c4bea650"
+sg_name = "sample-sg"
+sg_name1 = "sample1-sg"
+ami = "ami-079b5e5b3971bd10d"
+type = "t2.micro"
+zone = "us-east-2a"
+key_pair = "own_key"
